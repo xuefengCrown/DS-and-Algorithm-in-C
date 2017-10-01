@@ -1,0 +1,33 @@
+
+1 处理信息（数与字符）
+信息是什么？ 世界是由什么构成？ 真实与幻象
+《信息简史》
+语言是什么？
+
+世界的最基本构成是什么？
+字符——造句
+图形—— polygons-and-polyhedra 多边形与多面体
+（https://mathigon.org/course/polygons-and-polyhedra#full）
+Polygons appear everywhere in nature. They are especially useful if you want to tile a large area, 
+because you can fit polygons together without any gaps or overlaps – these patterns are called tessellations.
+图片—— 一个个点
+Pi—— 随机
+
+存储信息和引用信息
+***存储信息：位——>类型
+******基本类型  
+******数组  
+******结构体
+几何点
+
+***引用信息：指针
+高效
+指针有多种途径可使数据结构化？？？
+***组织信息，数据
+两种线性结构
+******数组——固定有序，易于访问而不利于操纵
+******list（链表）——逻辑有序，易于操纵而不利于访问
+
+聚合操作，抽象化：函数
+
+涉及泛型——客户 接口 实现
