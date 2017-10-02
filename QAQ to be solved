@@ -56,3 +56,11 @@ Horner 算法
 4.72
 释放对象 我懂
 但复制对象 是为什么？
+
+5.2 N! mod M
+高效实现 使溢出不是问题
+https://stackoverflow.com/questions/9727962/fast-way-to-calculate-n-mod-m-where-m-is-prime
+
+欧几里得算法的非递归实现
+
+
